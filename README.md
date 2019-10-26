@@ -1,4 +1,4 @@
-# OXYGEN O2
+# OXYGEN [O2]
 OXYGEN [O2] TOKEN
 
 OXYGEN [O2] TOKEN Adress    
